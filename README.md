@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **info@aliafrouz.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/alinajafi-developer/](www.linkedin.com/in/alinajafi-developer)
+- 📄 Know about my experiences [www.linkedin.com/in/alinajafi-developer](https://www.linkedin.com/in/alinajafi-developer/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
