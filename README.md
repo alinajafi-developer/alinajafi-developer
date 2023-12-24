@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alinajafi-developer&label=Profile%20views&color=C70039&style=flat" alt="alinajafi-developer" /> </p>
-
 <h1 align="center">Hi 👋, I'm Ali Najafi</h1>
 <h3 align="center">A passionate Frontend Developer From Iran</h3>
 <h4 align="center"> 🌃 Welcome To My World</h4>
